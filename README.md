@@ -125,3 +125,25 @@ If this repository is useful for your research, please cite:
 
 If you have any question, please contact hfsong@stu.ecnu.edu.cn
 
+---
+
+## More Open-Source Projects
+
+> [!TIP]
+> Interested in more open-source methods for medical image reconstruction?
+> Visit our **Medical Image Reconstruction project hub** for a collection of papers, source code, and available resources from [DeepMed Lab](https://github.com/DeepMed-Lab-ECNU).
+
+<p align="center">
+  <a href="https://github.com/DeepMed-Lab-ECNU/Medical-Image-Reconstruction">
+    <img src="https://img.shields.io/badge/Explore-Medical%20Image%20Reconstruction-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Medical Image Reconstruction Project Hub">
+  </a>
+</p>
+
+<p align="center">
+  <strong>
+    <a href="https://github.com/DeepMed-Lab-ECNU/Medical-Image-Reconstruction">
+      View all open-source medical image reconstruction projects
+    </a>
+  </strong>
+</p>
+​​
