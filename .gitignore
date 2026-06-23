@@ -1,0 +1,46 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local editor / agent state
+.vscode/
+.idea/
+.agents/
+.codex/
+
+# Runtime outputs
+log/
+logs/
+runs/
+experiments/
+outputs/
+wandb/
+
+# Datasets and generated arrays
+# data/
+# *.npy
+# *.npz
+# *.pkl
+# *.pickle
+# *.nii
+# *.nii.gz
+
+# Model checkpoints and private artifacts
+# ckpt/*
+# !ckpt/README.md
+# *.pth
+# *.pt
+# *.ckpt
+# artifacts.local/
+
+# System files
+.DS_Store
+Thumbs.db

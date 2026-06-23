@@ -1,0 +1,11 @@
+# Install PyTorch separately for your CUDA version:
+# https://pytorch.org/get-started/locally/
+numpy
+scipy
+nibabel
+tqdm
+PyYAML
+tensorboard
+timm
+thop
+einops
