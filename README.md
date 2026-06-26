@@ -2,7 +2,7 @@
 
 Haofei Song, Siyuan Xu, Xintian Mao, Shaojie Guo, Qingli Li, Yan Wang*
 
-**Paper Link**: coming soon
+**Paper Link**: [arxiv](https://arxiv.org/abs/2606.26716)
 
 
 ## Environment
